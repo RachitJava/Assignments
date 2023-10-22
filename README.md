@@ -6,8 +6,8 @@ This repository contains a C program that implements two scheduling algorithms: 
 
 ### Author
 
-- Author: [Your Name]
-- Date: [Date]
+- Author: Rachit Bishnoi
+- Date: 23 OCT 2023
 
 ## Contents
 
